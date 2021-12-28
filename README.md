@@ -1,1 +1,1 @@
-# Dijkstra
+node dij.js test.txt
